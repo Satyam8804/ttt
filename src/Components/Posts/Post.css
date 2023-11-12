@@ -45,6 +45,7 @@
 .post{
     border-bottom: 2px solid rgb(170, 169, 169);
     padding-bottom: 1.5rem;
+    width: 100%;
 }
 .post-details *{
     font-size: 10px;

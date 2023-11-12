@@ -6,7 +6,7 @@ import heart from './images/heart.png'
 export const data =[
     {
         logo : star,
-        count : '125',
+        count : '127',
         bg : '#6dbecd'
     },
     {

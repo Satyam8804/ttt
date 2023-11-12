@@ -2,6 +2,7 @@ import React from 'react'
 import './Post.css'
 const Post = ({posts}) => {
     const post_count = posts.length;
+
   return (
     <div className='posts'>
         <div className="posts_start">

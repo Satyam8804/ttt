@@ -13,13 +13,13 @@ export const  posts =[
         bg : "#f6ab12"
     },
     {
-        title :"A Changing World Order",
-        detail : "The world is changing at a feverish pace. Friends,colleagues and everyone engaged in knowledge beginning to sense this, including.",
+        title :"Indian v/s Australia",
+        detail : "Think about it - this cricket series was akin to therapy. ",
         author : "Anujgosalia",
-        type :"musing",
-        date : "August 2",
+        type :"thought",
+        date : "january 2",
         status : "2 mins Read",
-        views : "102 Views",
+        views : "156 Views",
         icon : like,
         bg : "#f6ab12"
     },
