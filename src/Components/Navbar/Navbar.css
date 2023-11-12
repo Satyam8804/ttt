@@ -1,0 +1,40 @@
+.logo>img{
+    height: 40px;
+    width: 40px;
+    border-right: 2px solid #fdc244;
+    padding-right: 10px;
+}
+
+.nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background: #111111;
+    padding: 1.5rem;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.topic{
+    color: #ffffff;
+    align-items: center;
+    font-size: larger;
+    font-weight: 600;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+
+}
+
+.logo{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: .5rem;
+}
+
+input[type=button]{
+    background: #fdc244;
+    border-radius: .5rem;
+    font-weight: 600;
+    font-size: 1.1rem;
+}

@@ -1,0 +1,23 @@
+.App{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+.contents{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 70%;
+    gap: 2rem;
+}
+@media (max-width: 768px) {
+    
+    .contents{
+        width: 100%;
+    }
+
+   
+}
